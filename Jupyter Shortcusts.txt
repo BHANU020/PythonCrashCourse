@@ -1,7 +1,7 @@
 The Jupyter Notebook KEY BOARD SHORTCUTS
-*************************************************************************
+************************************************************************
 Command Mode (press Esc to enable) Edit Shortcuts
-*************************************************************************
+************************************************************************
 F: find and replace
 Ctrl-Shift-F: open the command palette
 Ctrl-Shift-P: open the command palette
